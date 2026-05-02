@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nipralofrontendtask/static/css/main.477190a7.css",
-    "main.js": "/nipralofrontendtask/static/js/main.7bd6ee89.js",
+    "main.js": "/nipralofrontendtask/static/js/main.04f222bc.js",
     "static/js/453.535db875.chunk.js": "/nipralofrontendtask/static/js/453.535db875.chunk.js",
     "static/media/homevideo.mp4": "/nipralofrontendtask/static/media/homevideo.4efd1e9ca70f5345adeb.mp4",
     "static/media/pentakuhl-video.mp4": "/nipralofrontendtask/static/media/pentakuhl-video.ead38b34c3a55158f8f5.mp4",
@@ -32,11 +32,11 @@
     "static/media/accai.png": "/nipralofrontendtask/static/media/accai.ebe69e047747ac36f45d.png",
     "index.html": "/nipralofrontendtask/index.html",
     "main.477190a7.css.map": "/nipralofrontendtask/static/css/main.477190a7.css.map",
-    "main.7bd6ee89.js.map": "/nipralofrontendtask/static/js/main.7bd6ee89.js.map",
+    "main.04f222bc.js.map": "/nipralofrontendtask/static/js/main.04f222bc.js.map",
     "453.535db875.chunk.js.map": "/nipralofrontendtask/static/js/453.535db875.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.477190a7.css",
-    "static/js/main.7bd6ee89.js"
+    "static/js/main.04f222bc.js"
   ]
 }
