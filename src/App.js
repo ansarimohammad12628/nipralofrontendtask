@@ -8,7 +8,7 @@ import ScrollToTop from "./Components/ScrollToTop";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/frontend-task">
       <ScrollToTop />
       <Routes>
         <Route element={<MainLayout />}>
