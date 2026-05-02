@@ -8,7 +8,7 @@ import ScrollToTop from "./Components/ScrollToTop";
 
 function App() {
   return (
-    <BrowserRouter basename="/nipralofrontend-task">
+    <BrowserRouter basename="/nipralofrontendtask">
       <ScrollToTop />
       <Routes>
         <Route element={<MainLayout />}>
